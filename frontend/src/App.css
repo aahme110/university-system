@@ -1,0 +1,57 @@
+.custom-box {
+    margin-top: 60px;
+    background-color: #be5959;
+    color: white;
+    border-radius: 25px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 60px;
+
+}
+
+button {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+
+}
+
+.home-page {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.grade-centre {
+    position: relative;
+    left: 47%;
+}
+
+.button-container a {
+    margin: 3px;
+
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.create-button {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: max-content !important;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 20px;
+    display: flex !important;
+    margin-bottom: 20px;
+}
+
+.single-box {
+    padding-bottom: 10px;
+}
+
+.list-group {
+    list-style-type: none;
+}
+  
